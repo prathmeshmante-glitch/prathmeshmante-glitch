@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,50:24445A,100:4F8A8B&height=210&section=header&text=PRATHMESH%20MANTE&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=COMPUTER%20SCIENCE%20ENGINEERING%20%7C%20BUILDER%20%7C%20PROBLEM%20SOLVER&descAlignY=60&descSize=13" width="100%" alt="Prathmesh Mante — Computer Science Engineering" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0EA5A4&height=210&section=header&text=Prathmesh%20Mante&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=COMPUTER%20SCIENCE%20ENGINEERING%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=14" width="100%" alt="Prathmesh Mante — Computer Science Engineering and software development"/>
 
-<br/>
+<p>
+  <a href="https://prathmeshmante-glitch.github.io"><img src="https://img.shields.io/badge/OPEN-COMMAND%20DECK-0F766E?style=for-the-badge&logoColor=white" alt="Open Command Deck"/></a>
+  <a href="https://github.com/prathmeshmante-glitch?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
+</p>
 
-<a href="https://prathmeshmante-glitch.github.io"><img src="https://img.shields.io/badge/OPEN-COMMAND%20DECK-24445A?style=for-the-badge&logoColor=white" alt="Open Command Deck" /></a>
-<a href="https://github.com/prathmeshmante-glitch?tab=repositories"><img src="https://img.shields.io/badge/VIEW-PROJECTS-263238?style=for-the-badge&logo=github&logoColor=white" alt="View projects" /></a>
-<a href="https://github.com/prathmeshmante-glitch"><img src="https://img.shields.io/badge/GITHUB-PROFILE-37474F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<p><strong>Building practical software across AI, backend systems, networking, and cybersecurity.</strong></p>
 
 </div>
 
@@ -14,38 +15,42 @@
 
 ## About Me
 
-I'm **Prathmesh Mante**, a Computer Science Engineering student who enjoys turning ideas into useful, well-engineered products. I'm interested in full-stack development, AI-powered applications, agentic workflows, networks, and cybersecurity.
+I'm **Prathmesh Mante**, a Computer Science Engineering student who enjoys turning ideas into useful, well-engineered products. I'm strengthening my foundations in data structures and algorithms while building projects that combine product thinking with hands-on engineering.
 
-- **Currently exploring:** backend engineering, AI systems, and network security
-- **I enjoy:** solving problems, designing systems, and building practical projects
-- **My approach:** understand the fundamentals, build iteratively, and keep improving
+- **Interests:** AI applications, LLM-powered workflows, backend engineering, networking, and cybersecurity
+- **Currently focused on:** problem-solving, system design fundamentals, and end-to-end project development
+- **I value:** clear architecture, thoughtful user experience, and learning by building
 
 ## Projects
 
 | Project | Overview | Technologies / Focus |
 |---|---|---|
-| **ORCA** | Environmental intelligence and marine ecosystem insights using Earth-observation data | Python · FastAPI · React · AI |
-| **Kala Sarthi** | AI-assisted cataloguing and market access for artisans | React Native · Python · FastAPI |
-| **BrandForge** | Brand intelligence and AI-assisted workflows | Next.js · FastAPI · LangGraph · Supabase |
-| **InkLoom** | AI-assisted logo design and structured visual identity exploration | TypeScript · Generative design |
+| **ORCA** | Environmental intelligence and marine ecosystem insights using Earth-observation data. | Python · FastAPI · React · AI |
+| **Kala Sarthi** | AI-assisted cataloguing and market access for artisans. | React Native · Python · FastAPI |
+| **BrandForge** | Brand intelligence and AI-assisted workflows. | Next.js · FastAPI · LangGraph · Supabase |
+| **InkLoom** | AI-assisted logo design and structured visual identity exploration. | TypeScript · Generative design |
 
-Explore the source code and implementation details in the [public repositories](https://github.com/prathmeshmante-glitch?tab=repositories).
+<p align="center">
+  <a href="https://github.com/prathmeshmante-glitch?tab=repositories"><img src="https://img.shields.io/badge/VIEW-ALL%20PROJECTS-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/></a>
+</p>
+
+*Visit each repository for source code, documentation, and the current implementation status.*
 
 ## Technologies & Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,fastapi,postgres,supabase,git,github,docker,linux&theme=dark" alt="C++, Python, JavaScript, TypeScript, React, Next.js, Node.js, FastAPI, PostgreSQL, Supabase, Git, GitHub, Docker, and Linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,fastapi,postgres,supabase,git,github,docker,linux&theme=dark" alt="C++, Python, JavaScript, TypeScript, React, Next.js, Node.js, FastAPI, PostgreSQL, Supabase, Git, GitHub, Docker, and Linux"/>
 </div>
 
 ## GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prathmeshmante-glitch&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&title_color=4F8A8B&icon_color=4F8A8B&text_color=CBD5E1" alt="GitHub profile statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshmante-glitch&layout=compact&theme=transparent&hide_border=true&title_color=4F8A8B&text_color=CBD5E1" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prathmeshmante-glitch&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&title_color=0F766E&icon_color=0D9488&text_color=64748B" alt="GitHub profile statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshmante-glitch&layout=compact&theme=transparent&hide_border=true&title_color=0F766E&text_color=64748B" alt="Most used programming languages"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=prathmeshmante-glitch&theme=dark&hide_border=true&background=00000000&ring=4F8A8B&fire=4F8A8B&currStreakLabel=4F8A8B" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=prathmeshmante-glitch&theme=transparent&hide_border=true&ring=0F766E&fire=0D9488&currStreakLabel=0F766E" alt="GitHub contribution streak"/>
 </div>
 
 ## Connect
@@ -54,7 +59,8 @@ Explore the source code and implementation details in the [public repositories](
 - **Projects:** [Browse all repositories](https://github.com/prathmeshmante-glitch?tab=repositories)
 - **Portfolio:** [Open Command Deck](https://prathmeshmante-glitch.github.io)
 
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8A8B,50:24445A,100:101820&height=100&section=footer" width="100%" alt="" />
-<sub>Build with curiosity. Engineer with purpose.</sub>
+  <sub>Learning continuously. Building thoughtfully. Improving with every iteration.</sub>
 </div>

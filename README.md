@@ -26,7 +26,10 @@ I'm **Prathmesh Mante**, a Computer Science Engineering student who enjoys turni
 ## Projects
 
 <!-- PROJECTS:START -->
-_Projects from my public GitHub repositories will appear here automatically._
+| Repository | Description | Language | Updated |
+|---|---|---|---|
+| [prathmeshmante-glitch.github.io](https://github.com/prathmeshmante-glitch/prathmeshmante-glitch.github.io) | No description added yet. | JavaScript | 2026-10-20 |
+| [brandforge](https://github.com/prathmeshmante-glitch/brandforge) | No description added yet. | TypeScript | 2026-10-20 |
 <!-- PROJECTS:END -->
 
 <div align="center">

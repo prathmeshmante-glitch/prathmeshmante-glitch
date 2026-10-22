@@ -28,7 +28,7 @@ I'm **Prathmesh Mante**, a Computer Science Engineering student who enjoys turni
 <!-- PROJECTS:START -->
 | Repository | Description | Language | Updated |
 |---|---|---|---|
-| [OpenTrail](https://github.com/prathmeshmante-glitch/OpenTrail) | Evidence-grounded code intelligence for navigating repositories, investigating issues, and contributing with confidence. | Python | 2026-10-22 |
+| [OpenTrail](https://github.com/prathmeshmante-glitch/OpenTrail) | Evidence-grounded code intelligence for navigating repositories, investigating issues, and contributing with confidence. | TypeScript | 2026-10-22 |
 | [prathmeshmante-glitch.github.io](https://github.com/prathmeshmante-glitch/prathmeshmante-glitch.github.io) | No description added yet. | JavaScript | 2026-10-20 |
 | [brandforge](https://github.com/prathmeshmante-glitch/brandforge) | No description added yet. | TypeScript | 2026-10-20 |
 <!-- PROJECTS:END -->

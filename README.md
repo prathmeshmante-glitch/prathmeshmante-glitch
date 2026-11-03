@@ -28,6 +28,7 @@ I'm **Prathmesh Mante**, a Computer Science Engineering student who enjoys turni
 <!-- PROJECTS:START -->
 | Repository | Description | Language | Updated |
 |---|---|---|---|
+| [Voice-Stage](https://github.com/prathmeshmante-glitch/Voice-Stage) | No description added yet. | — | 2026-11-03 |
 | [iketrace](https://github.com/prathmeshmante-glitch/iketrace) | IKETrace — An offline-first IPsec VPN security assurance lab for evidence-based cryptographic policy verification, security regression an... | Python | 2026-10-28 |
 | [OpenTrail](https://github.com/prathmeshmante-glitch/OpenTrail) | Evidence-grounded code intelligence for navigating repositories, investigating issues, and contributing with confidence. | TypeScript | 2026-10-26 |
 | [prathmeshmante-glitch.github.io](https://github.com/prathmeshmante-glitch/prathmeshmante-glitch.github.io) | No description added yet. | JavaScript | 2026-10-20 |
